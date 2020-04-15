@@ -1,10 +1,14 @@
 # pygame_anjali
 ## REAL-FIGHTERS
 
-~This is a game developed to show how the medical staffs fight against the Corona pandemic.
-~Doctor with a syringe fights with the corona.
-~Power boosters are given as sanitizers and by staying at home.
-~These power boosters help in increase the Doctor's lives. 
+-This is a game developed to show how the medical staffs fight against the Corona pandemic.
+
+-Doctor with a syringe fights with the corona.
+
+-Power boosters are given as sanitizers and by staying at home.
+
+-These power boosters help in increase the Doctor's lives. 
+
 ## How to play this game
 1. Player is given 3 Lifes, 5 Supermedicines and infinite doctor medicines in the beginning of the game.   
 2. Keyboard Controls-
