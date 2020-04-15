@@ -31,11 +31,11 @@
 - There are three types of viruses coming
 - Virus: Hit once to destroy. Score - 15 per Virus destroyed.
 - Virus1: Hit once to destroy. Score - 20 per Virus destroyed.
-- Super Virus: Hit thrice to destroy. Score - 30 per Virus destroyed.
+- Killer Virus: Hit thrice to destroy. Score - 30 per Virus destroyed.
 7. Super medicines-
 - Max no of super medicines to store is 9.
 - Super medicine doesn't get destroyed until it reaches the end of screen.
 - It can destroy any type of Virus with one hit.
 - Also, player is awarded more score if he/she destroys Viruses with super medicines. 
 - Score for different Viruses is as following-  
-  Virus - Score of 30, Virus1 - Score of 50 and Super Virus - Score of 60
+  Virus - Score of 30, Virus1 - Score of 50 and Killer Virus - Score of 60
